@@ -1,0 +1,8 @@
+openai
+speechrecognition
+pyttsx3
+pyaudio
+opencv-python
+face-recognition
+fer
+requests
